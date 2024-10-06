@@ -25,21 +25,25 @@ const Login = () => {
 
   return (
     <div>
-      <h2>Login</h2>
+      <h2 data-cy="login-list-title">Login</h2>
       <input
         type="text"
         placeholder="Username"
         value={username}
+        data-cy="login-input-username"
         onChange={(e) => setUsername(e.target.value)}
       />
       <input
         type="password"
         placeholder="Password"
         value={password}
+        data-cy="login-input-password"
         onChange={(e) => setPassword(e.target.value)}
       />
-      <button onClick={handleLogin}>Login</button>
-      <p>{message}</p>
+      <button data-cy="login-button" onClick={handleLogin}>
+        Login
+      </button>
+      <p data-cy="login-message">{message}</p>
     </div>
   );
 };

@@ -12,8 +12,8 @@ const OrderList = () => {
 
   return (
     <div>
-      <h2>Order List</h2>
-      <ul>
+      <h2 data-cy="order-list-title">Order List</h2>
+      <ul data-cy="order-list">
         {orders.map((order) => (
           <li key={order.id}>
             {order.productName} - {order.quantity} - {order.status}

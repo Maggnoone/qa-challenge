@@ -12,16 +12,24 @@ const App = () => {
         <nav>
           <ul>
             <li>
-              <Link to="/login">Login</Link>
+              <Link data-cy="login-link" to="/login">
+                Login
+              </Link>
             </li>
             <li>
-              <Link to="/dashboard">Dashboard</Link>
+              <Link data-cy="dashboard-link" to="/dashboard">
+                Dashboard
+              </Link>
             </li>
             <li>
-              <Link to="/products">Products</Link>
+              <Link data-cy="products-link" to="/products">
+                Products
+              </Link>
             </li>
             <li>
-              <Link to="/orders">Orders</Link>
+              <Link data-cy="orders-link" to="/orders">
+                Orders
+              </Link>
             </li>
           </ul>
         </nav>
