@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3so2X3JdQLQ=",
+  "dgSpecHash": "7g+S0lBNsMw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MauricioGarcia\\Documents\\Repositories\\qa-challenge-main\\qa-api\\qa-api.csproj",
+  "projectFilePath": "C:\\Users\\MauricioGarcia\\Documents\\Repositories\\qa-challenge\\qa-api\\qa-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MauricioGarcia\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\MauricioGarcia\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MauricioGarcia\\Documents\\Repositories\\qa-challenge-main\\qa-api\\qa-api.csproj": {}
+    "C:\\Users\\MauricioGarcia\\Documents\\Repositories\\qa-challenge\\qa-api\\qa-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MauricioGarcia\\Documents\\Repositories\\qa-challenge-main\\qa-api\\qa-api.csproj": {
+    "C:\\Users\\MauricioGarcia\\Documents\\Repositories\\qa-challenge\\qa-api\\qa-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MauricioGarcia\\Documents\\Repositories\\qa-challenge-main\\qa-api\\qa-api.csproj",
+        "projectUniqueName": "C:\\Users\\MauricioGarcia\\Documents\\Repositories\\qa-challenge\\qa-api\\qa-api.csproj",
         "projectName": "qa-api",
-        "projectPath": "C:\\Users\\MauricioGarcia\\Documents\\Repositories\\qa-challenge-main\\qa-api\\qa-api.csproj",
+        "projectPath": "C:\\Users\\MauricioGarcia\\Documents\\Repositories\\qa-challenge\\qa-api\\qa-api.csproj",
         "packagesPath": "C:\\Users\\MauricioGarcia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MauricioGarcia\\Documents\\Repositories\\qa-challenge-main\\qa-api\\obj\\",
+        "outputPath": "C:\\Users\\MauricioGarcia\\Documents\\Repositories\\qa-challenge\\qa-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MauricioGarcia\\AppData\\Roaming\\NuGet\\NuGet.Config"

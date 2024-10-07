@@ -11,7 +11,7 @@ const OrderList = () => {
   }, []);
 
   return (
-    <div>
+    <div data-cy="order-body">
       <h2 data-cy="order-list-title">Order List</h2>
       <ul data-cy="order-list">
         {orders.map((order) => (

@@ -11,7 +11,7 @@ const ProductList = () => {
   }, []);
 
   return (
-    <div>
+    <div data-cy="product-body">
       <h2 data-cy="product-list-title">Product List</h2>
       <ul data-cy="product-list">
         {products.map((product) => (
